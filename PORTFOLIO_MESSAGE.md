@@ -14,6 +14,8 @@ Assalomu alaykum!
 Mening ismim Lazizbek Turayev — Senior Mobile Developer (iOS & Android).
 Mobillik sohasida yuqori yuklamali taksi/logistika tizimlari, do'kon va restoranlar uchun POS kassa apparatlari hamda video-striming platformalarini ishlab chiqish bo'yicha tajribaga egaman.
 
+🌐 Shaxsiy Portfolio Saytim (Jonli): https://lazizbek6766.github.io/portfolio/
+
 Quyida App Store va Google Play do'konlarida hozirda faol ishlab turgan va o'zim qatnashgan/yaratgan asosiy loyihalarim havolalari:
 
 🚖 TAKSI VA LOGISTIKA EKOTIZIMI:
@@ -87,6 +89,8 @@ Subject: Senior Mobile Engineer (iOS & Android) — Lazizbek Turayev Portfolio
 Hi there,
 
 I am Lazizbek Turayev, a Senior Mobile Application Engineer specializing in high-concurrency, offline-first, and real-time mobile systems across iOS and Android.
+
+🌐 Live Portfolio Website: https://lazizbek6766.github.io/portfolio/
 
 I have architected, developed, and published 8+ production apps currently live on the Apple App Store and Google Play:
 
