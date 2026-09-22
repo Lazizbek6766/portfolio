@@ -71,4 +71,4 @@ So'ng brauzerda oching: **`http://localhost:8000`**
 - Telegram linki (`https://t.me/your_username`)
 - LinkedIn linki (`https://linkedin.com/in/your_profile`)
 - GitHub linki (`https://github.com/Lazizbek6766`)
-- Email manzili (`lazizbek.developer@example.com`)
+- Email manzili (`turayevlazizbek6766@gmail.com`)

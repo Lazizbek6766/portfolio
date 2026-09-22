@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Turayev_Lazizbek-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Bog'lanish-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me)
-[![Email](https://img.shields.io/badge/Email-Yozish-D14836?style=for-the-badge&logo=gmail)](mailto:lazizbek.developer@example.com)
+[![Email](https://img.shields.io/badge/Email-Yozish-D14836?style=for-the-badge&logo=gmail)](mailto:turayevlazizbek6766@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub_Profile-Lazizbek6766-181717?style=for-the-badge&logo=github)](https://github.com/Lazizbek6766/Lazizbek6766)
 
 <br/>
@@ -79,4 +79,4 @@
 
 - 💬 **Telegram:** [@username](https://t.me)
 - 💼 **LinkedIn:** [Turayev Lazizbek](https://linkedin.com)
-- 📧 **Email:** [lazizbek.developer@example.com](mailto:lazizbek.developer@example.com)
+- 📧 **Email:** [turayevlazizbek6766@gmail.com](mailto:turayevlazizbek6766@gmail.com)
