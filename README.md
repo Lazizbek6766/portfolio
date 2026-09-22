@@ -68,7 +68,7 @@ So'ng brauzerda oching: **`http://localhost:8000`**
 ## 📝 3. Shaxsiy Ma'lumotlarni Sozlash
 
 `index.html` faylida quyidagi joylarni o'zingizning aniq manzillaringiz bilan yangilashingiz mumkin:
-- Telegram linki (`https://t.me/your_username`)
-- LinkedIn linki (`https://linkedin.com/in/your_profile`)
+- Telegram linki (`https://t.me/Turayev01/Turayev01`)
+- LinkedIn linki (`https://www.linkedin.com/in/lazizbek-turayev-11b60a439/`)
 - GitHub linki (`https://github.com/Lazizbek6766`)
 - Email manzili (`turayevlazizbek6766@gmail.com`)

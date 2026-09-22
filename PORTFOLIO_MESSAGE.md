@@ -39,6 +39,11 @@ Quyida App Store va Google Play do'konlarida hozirda faol ishlab turgan va o'zim
 
 🛠 Texnik stek: Swift (SwiftUI, UIKit, Combine), Kotlin (Jetpack Compose, Coroutines), WebSockets, CoreLocation (orqa fonda tejamkor GPS), ESC/POS Bluetooth/LAN termal printerlar integratsiyasi, Clean Architecture.
 
+📬 ALOQA:
+• Telegram: @Turayev01 (https://t.me/Turayev01)
+• LinkedIn: https://www.linkedin.com/in/lazizbek-turayev-11b60a439/
+• Email: turayevlazizbek6766@gmail.com
+
 Sizning loyihangiz yoki vakansiyangiz bo'yicha suhbatlashishdan mamnun bo'laman!
 ```
 
@@ -112,6 +117,11 @@ I have architected, developed, and published 8+ production apps currently live o
 💻 Open Source & GitHub:
 • Profile: https://github.com/Lazizbek6766
 (Features production samples of Multi-module architecture, CourierTracking, and Jetpack Compose)
+
+📬 CONTACT:
+• Telegram: @Turayev01 (https://t.me/Turayev01)
+• LinkedIn: https://www.linkedin.com/in/lazizbek-turayev-11b60a439/
+• Email: turayevlazizbek6766@gmail.com
 
 Looking forward to hearing from you.
 

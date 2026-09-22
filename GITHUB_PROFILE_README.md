@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Turayev_Lazizbek-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Bog'lanish-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Turayev_Lazizbek-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lazizbek-turayev-11b60a439/)
+[![Telegram](https://img.shields.io/badge/Telegram-Bog'lanish-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Turayev01)
 [![Email](https://img.shields.io/badge/Email-Yozish-D14836?style=for-the-badge&logo=gmail)](mailto:turayevlazizbek6766@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub_Profile-Lazizbek6766-181717?style=for-the-badge&logo=github)](https://github.com/Lazizbek6766/Lazizbek6766)
 
@@ -77,6 +77,6 @@
 
 ### 📬 Aloqa (Contact Me)
 
-- 💬 **Telegram:** [@username](https://t.me)
-- 💼 **LinkedIn:** [Turayev Lazizbek](https://linkedin.com)
+- 💬 **Telegram:** [@Turayev01](https://t.me/Turayev01)
+- 💼 **LinkedIn:** [Turayev Lazizbek](https://www.linkedin.com/in/lazizbek-turayev-11b60a439/)
 - 📧 **Email:** [turayevlazizbek6766@gmail.com](mailto:turayevlazizbek6766@gmail.com)
